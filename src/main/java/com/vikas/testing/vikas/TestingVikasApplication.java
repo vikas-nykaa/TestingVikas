@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestingVikasApplication {
 
     public static void main(String[] args) {
+
+        System.out.println("Vikas testing project");
         SpringApplication.run(TestingVikasApplication.class, args);
     }
 
