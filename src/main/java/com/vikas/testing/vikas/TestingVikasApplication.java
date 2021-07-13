@@ -8,7 +8,7 @@ public class TestingVikasApplication {
 
     public static void main(String[] args) {
 
-        System.out.println("Vikas testing project");
+        System.out.println("Vikas testing project sub feature A");
         SpringApplication.run(TestingVikasApplication.class, args);
     }
 
